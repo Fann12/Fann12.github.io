@@ -1,0 +1,18 @@
+body {
+  min-height: 2500px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: lightsalmon;
+}
+
+#galeri {
+  background-color: lightsalmon;
+}
+footer {
+  padding-bottom: 5rem;
+}
+
+section {
+  padding-top: 5rem;
+}
